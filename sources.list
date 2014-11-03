@@ -1,0 +1,8 @@
+# deb cdrom:[Ubuntu 14.04.1 LTS _Trusty Tahr_ - Release amd64 (20140722.2)]/ trusty main restricted
+
+deb http://10.0.0.7/ubuntu trusty main restricted universe multiverse
+deb http://10.0.0.7/ubuntu trusty-security main restricted universe multiverse
+deb http://10.0.0.7/ubuntu trusty-updates main restricted universe multiverse
+
+deb http://10.0.0.7/openstack-juno trusty-updates/juno main
+deb http://10.0.0.7/salt trusty main
